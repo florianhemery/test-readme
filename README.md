@@ -2,20 +2,21 @@ test du **readme** ~~editor~~
 
 comme tu peux le voir **ca fonctionne bien** !!!
 
-```mermaid
-flowchart TD
-  node0[test1]
-  node1[test2]
-  node2[test3]
-  node0 --> node1
-  node1 --> node2
+```
+fzzffeezzeffe/
+│   └── 1
+3
 ```
 
 Hello je fait un test
 
-![moi](https://raw.githubusercontent.com/florianhemery/test-readme/main/.readme-assets/moi-1773922616525.jpg)
+![moi](https://raw.githubusercontent.com/florianhemery/test-readme/main/.readme-assets/moi-1773922616525.jpg)blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablab
 
-dossier :
+---
+
+lablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
+
+**dossier** :
 
 ```
 Folder_1/
@@ -27,4 +28,17 @@ Folder_3/
 file_4
 ```
 
-je suis la
+je suis laddd
+
+```mermaid
+flowchart TD
+  node0[node_1]
+  node1[node_2]
+  node2[node_3]
+  node3[node_4]
+  node0 --> node1
+  node2 --> node1
+  node3 --> node1
+```
+
+hello testtest
